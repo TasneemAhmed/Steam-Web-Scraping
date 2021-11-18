@@ -8,3 +8,7 @@
    Showing the trending/new gmes & their prices, 
    the count of categories games tags
    
+   ![Games Price](https://user-images.githubusercontent.com/49993791/142439284-498d32c2-9585-454e-b7d8-224f61ad7cd5.png)
+
+   ![Categories Games Count](https://user-images.githubusercontent.com/49993791/142439327-bd0c7082-6dca-48f4-97aa-94774eb3b4af.png)
+
